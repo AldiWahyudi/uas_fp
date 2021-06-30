@@ -60,12 +60,7 @@
                                 Data Surat 
                             </a>
                         </li>
-                        <li class="nav-item dropdown">
-                        <a class="nav-link" href="{{ url('/post/create') }}">
-                                Tambah Surat 
-                            </a>
-                        
-                        </li>
+                       
                         {{-- end --}}
 
                             <li class="nav-item dropdown">
